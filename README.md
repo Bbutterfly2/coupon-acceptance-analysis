@@ -74,15 +74,6 @@ Some notable findings include:
 
 - Restaurant coupon acceptance varied by factors such as income, destination, and time of day. 
 
---- 
-
-Repository Structure 
-
-``` 
-
-coupon-acceptance-analysis/ │ ├── data/ │      └── coupons.csv │ ├── coupon_acceptance_analysis.ipynb ├── README.md ``` 
-
---- 
 
 Author 
 
