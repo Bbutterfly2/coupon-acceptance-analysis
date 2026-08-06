@@ -1,5 +1,3 @@
-coupon-acceptance-analysis
-
 Coupon Acceptance Analysis 
 
 Project Overview 
