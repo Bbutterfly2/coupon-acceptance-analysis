@@ -1,6 +1,6 @@
 coupon-acceptance-analysis
 
-##Coupon Acceptance Analysis 
+Coupon Acceptance Analysis 
 
 Project Overview 
 
@@ -10,7 +10,7 @@ The analysis was completed using Python in Jupyter Notebook with pandas, Matplot
 
 --- 
 
-##Dataset 
+Dataset 
 
 The dataset contains information about: 
 
@@ -30,7 +30,7 @@ The dataset contains information about:
 
 --- 
 
-##Objectives 
+Objectives 
 
 The analysis focuses on: 
 
@@ -46,7 +46,7 @@ The analysis focuses on:
 
 --- 
 
-##Tools Used 
+Tools Used 
 
 - Python 
 
@@ -62,7 +62,7 @@ The analysis focuses on:
 
 --- 
 
-##Key Findings 
+Key Findings 
 
 Some notable findings include: 
 
